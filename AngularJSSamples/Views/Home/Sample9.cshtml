@@ -1,0 +1,68 @@
+﻿
+@{
+    ViewBag.Title = "Sample9";
+}
+
+<h2>Sample9 - form validation</h2>
+
+
+<div ng-app="myApp" ng-controller="ValidationController">
+    <form name="form" class="css-form" novalidate>
+        Name:
+        <input type="text" ng-model="user.name" name="inpName" required="" />
+        <br />
+        <div ng-show="form.$submitted || form.inpName.$touched">
+            <div ng-show="form.inpName.$error.required" style="color:red">Name Required.</div>
+        </div>
+
+        E-mail:
+        <input type="email" ng-model="user.email" name="inpEmail" required="" />
+        <br />
+        <div ng-show="form.$submitted || form.inpEmail.$touched">
+            <span ng-show="form.inpEmail.$error.required" style="color:red">Email required.</span>
+            <span ng-show="form.inpEmail.$error.email" style="color:red">Please enter valid email.</span>
+        </div>
+
+        @* Regular expression validation*@
+        Gender :
+        <input type="text" ng-model="user.gender" ng-pattern="gender.word" ng-trim="false" name="inpGender" required="" />
+        <br />
+        <div ng-show="form.$submitted || form.inpGender.$touched">
+            <span ng-show="form.inpGender.$error.required" style="color:red">Gender required.</span>
+            <span ng-show="form.inpGender.$error.pattern" style="color:red">Enter one digist M/F.</span>
+        </div>
+
+
+        @*<input type="checkbox" ng-model="user.agree" name="userAgree" required="" />
+
+        I agree:
+        @*<input ng-show="user.agree" type="text" ng-model="user.agreeSign" required="" />
+        <br />
+        <div ng-show="form.$submitted || form.userAgree.$touched">
+            <div ng-show="!user.agree || !user.agreeSign" style="color:red">Please agree and sign.</div>
+        </div>*@
+
+        <input type="submit" ng-click="update(user)" value="Save" />
+        <pre>user = {{user | json}}</pre>
+    </form>
+  
+</div>
+<script>
+    angular.module('myApp', [])
+.controller('ValidationController', ['$scope', function ($scope) {
+    $scope.master = {};
+   
+    $scope.gender = {
+        text: 'M',
+        word: "^(M|F|M/F)$"
+    };
+
+    $scope.update = function (user) {
+       $scope.master = angular.copy(user);
+        if ($scope.form.$valid) {
+            window.alert("Record save successfully");
+        }
+    };
+}]);
+</script>
+

@@ -1,0 +1,39 @@
+﻿
+@{
+    ViewBag.Title = "Sample6";
+}
+
+<h2>Sample6</h2>
+
+<div ng-app="MyApp" ng-controller="FilterController"> @*Defining the alies  to use it*@
+
+    <b><u>Searching(Filtering) the binded Data</u></b><br /><br />
+    <div>
+        Search Name : <input type="text" ng-model="search"> <br />
+        <b> All entries:</b>
+        <span ng-repeat="entry in AllRecords | filter:search | orderBy:'name'"><br />{{entry.name}}  </span>
+    </div>
+    <br /><br />
+    <b><u>Bind Data After Filteration</u></b><br /><br />
+    <div>
+        <b> Entries that contain an "a":</b> 
+        <span ng-repeat="entry in filteredRecords"><br />{{entry.name}} </span>
+    </div>
+</div>
+
+<script>
+
+    angular.module('MyApp', []).
+controller('FilterController', function ($scope,$filter) {
+    $scope.AllRecords = [
+      { name: 'Tobias' },
+      { name: 'Jeff' },
+      { name: 'Brian' },
+      { name: 'Igor' },
+      { name: 'James' },
+      { name: 'Brad' }
+    ];
+    $scope.filteredRecords = $filter('filter')($scope.AllRecords, { name: "a" }); 
+});
+</script>
+

@@ -1,0 +1,21 @@
+﻿@{
+    ViewBag.Title = "Sample1";
+}
+
+<h2>Sample 1 :Simple Data Binding with Model</h2>
+
+<div ng-app="" ng-init="name1='Ravi'">
+    <br /><b> Regular</b><br />
+    <br />
+    <p>Name: &nbsp; <input type="text" ng-model="name1"></p>
+    <br />
+    <b> Given Name : </b> <p ng-bind="name1"></p>
+    <br /><br />
+    <b> Given Name : </b>{{name}}
+
+    <br /><br /><b> Model Option for update [ Update while onblur]</b><br /><br />
+    <p>Address: &nbsp; <input type="text" ng-model="address" ng-model-options="{ updateOn: 'blur' }"></p>
+    <br />
+    <b> Given Address : </b> <p ng-bind="address"></p>
+    <br /><br />
+</div>

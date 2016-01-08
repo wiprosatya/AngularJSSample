@@ -1,0 +1,70 @@
+﻿@{
+    ViewBag.Title = "Sample3";
+}
+
+<h2>Sample3 - :Simple Data Binding with Directive Repeat </h2>
+
+<br />
+Binding the arry of records <br />
+
+<b> <u>Single Array</u></b> <br />
+<div ng-app="MyApp" >
+    <div ng-init="alphabet=['Apple','Ball','Cat']">
+        <ul>
+            <li ng-repeat="x in alphabet">
+                {{ x }}
+            </li>
+        </ul>
+
+
+
+    </div>
+
+    <br /><br />
+    <b> <u>Multi Array</u></b> <br />
+
+    <div ng-init="alphabets=[
+{text:'A',stands:'Apple'},
+{text:'B',stands:'Ball'},
+{text:'C',stands:'Cat'}]">
+
+        <ul>
+            <li ng-repeat="x in alphabets">
+                {{ x.text }}  -  {{ x.stands }}
+            </li>
+        </ul>
+
+    </div>
+    <div ng-controller="MyController">
+        <select ng-model="ddlAlpha" ng-options="alp.Id as alp.Name for alp in Alphabats track by alp.Id"
+                ng-change="GetValue()"></select>
+    </div>
+</div>
+
+<script type="text/javascript">
+    var app = angular.module('MyApp', [])
+    app.controller('MyController', function ($scope, $window) {
+        $scope.Alphabats = [{
+            Id: 1,
+            Name: 'A- ',
+            Stand : 'Apple'
+        }, {
+            Id: 2,
+            Name: 'B - ',
+            Stand: 'Ball'
+        }, {
+            Id: 3,
+            Name: 'C - ',
+            Stand: 'Cat'
+        }];
+
+        $scope.GetValue = function (val) {
+            var alpId = $scope.ddlAlpha;
+            var alphabetStand = $.grep($scope.Alphabats, function (val) {
+                return val.Id == alpId;
+            });
+            $window.alert("Select value of" + alphabetStand[0].Name + " is " + alphabetStand[0].Stand);
+        }
+    });
+</script>
+

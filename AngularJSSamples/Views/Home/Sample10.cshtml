@@ -1,0 +1,31 @@
+﻿
+@{
+    ViewBag.Title = "Sample10";
+}
+
+<h2>Sample10 - Fetching data from SQL</h2>
+
+<div ng-app="MyApp" ng-controller="DataFetch">
+    <table>
+        <tr>
+            <td> Name :: {{contacts.Name}}</td>
+        </tr>
+        <tr>
+            <td> Address :: {{contacts.Address}}</td>
+        </tr>
+    </table>
+
+</div>
+
+<script>
+    var app = angular.module('MyApp', [])
+
+    app.controller('DataFetch', function ($scope, $http) {
+        $scope.contacts = null;
+        $http.get('/Data/GetLastContact').then(function (d) {
+            $scope.contacts = d.data;
+        }, function () {
+            alert("failed");
+        });
+    })
+</script>

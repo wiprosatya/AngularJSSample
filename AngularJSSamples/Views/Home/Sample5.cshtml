@@ -1,0 +1,41 @@
+﻿@{
+    ViewBag.Title = "Sample5";
+}
+
+<h2>Sample5 - Using filters in view templates</h2>
+
+<div ng-app="myApp" ng-controller="Viewfilters">
+
+    @*Currency Filter*@
+    <br /><br /><br />
+    <u><b>Currency Filter </b></u>
+    <br /><br />
+    Money: <input type="text" ng-model="Money"><br>
+    Default Amount : {{ Money | currency}} <br />
+    Custom Amount : {{ Money | currency: "₹"}}
+
+    @*Lower case and upper case filter*@
+    <br /><br /><br />
+    <u><b>Lower/Upper Case Filter </b></u>
+    <br /><br />
+    Name: <input type="text" ng-model="Name"><br>
+    Name(UpperCase) : {{ Name | uppercase}} <br />
+    Name(lowercase) : {{ Name | lowercase}} <br />
+
+
+    <br /><br /><br />
+    <u><b>Number Filter </b></u>
+    <br /><br />
+    Number of Employee: <input type="text" ng-model="AverageSalary"><br>
+    Average Salary : {{ AverageSalary | number}} <br />
+    Average Salary(2 digit) : {{ AverageSalary | number:2}} <br />
+</div>
+
+<script>
+
+    angular.module('myApp', []).controller('Viewfilters', ['$scope', function ($scope) {
+        $scope.Money = 1234.56;
+        $scope.Name = "Satya Rathore";
+        $scope.AverageSalary = 1234.5612;
+    }]);
+</script>

@@ -1,0 +1,25 @@
+﻿
+@{
+    ViewBag.Title = "Sample2";
+}
+
+<h2>Sample 2 : Angular JS Expression Sample</h2>
+
+<div ng-app="" ng-init="Prop.FirstNumber=0;Prop.SecondNumber=0">
+    <br /><br />
+    <b> <u>Simple Expression</u></b> <br />
+    Result of { {2 * 2 + 2 /2}}    as <br />
+
+
+    {{2 * 2 + 2 /2}}
+    <br /><br />
+    <b><u>Model Based Expression</u></b> 
+    <br /><br />
+    <p>First Number : &nbsp; <input type="text" ng-model="Prop.FirstNumber"></p>
+    <br /><br />
+    <p>Second Number : <input type="text" ng-model="Prop.SecondNumber"></p>
+    <br /><br />
+    <b> Add : </b>{{ (Prop.FirstNumber* 1) + (Prop.SecondNumber * 1)}} @*Prop.SecondNumber|number*@
+    <br /><br />
+    <b> Mul : </b>{{Prop.FirstNumber * Prop.SecondNumber}}
+</div>

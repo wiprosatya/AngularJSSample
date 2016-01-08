@@ -1,0 +1,110 @@
+c:\users\v-satrat.crmidcdevdom\documents\visual studio 2013\Projects\AngularJSSamples\AngularJSSamples\bin\AngularJSSamples.dll.config
+c:\users\v-satrat.crmidcdevdom\documents\visual studio 2013\Projects\AngularJSSamples\AngularJSSamples\bin\AngularJSSamples.dll
+c:\users\v-satrat.crmidcdevdom\documents\visual studio 2013\Projects\AngularJSSamples\AngularJSSamples\bin\AngularJSSamples.pdb
+c:\users\v-satrat.crmidcdevdom\documents\visual studio 2013\Projects\AngularJSSamples\AngularJSSamples\bin\Antlr3.Runtime.dll
+c:\users\v-satrat.crmidcdevdom\documents\visual studio 2013\Projects\AngularJSSamples\AngularJSSamples\bin\EntityFramework.dll
+c:\users\v-satrat.crmidcdevdom\documents\visual studio 2013\Projects\AngularJSSamples\AngularJSSamples\bin\EntityFramework.SqlServer.dll
+c:\users\v-satrat.crmidcdevdom\documents\visual studio 2013\Projects\AngularJSSamples\AngularJSSamples\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\v-satrat.crmidcdevdom\documents\visual studio 2013\Projects\AngularJSSamples\AngularJSSamples\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\v-satrat.crmidcdevdom\documents\visual studio 2013\Projects\AngularJSSamples\AngularJSSamples\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\v-satrat.crmidcdevdom\documents\visual studio 2013\Projects\AngularJSSamples\AngularJSSamples\bin\Microsoft.Owin.dll
+c:\users\v-satrat.crmidcdevdom\documents\visual studio 2013\Projects\AngularJSSamples\AngularJSSamples\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\v-satrat.crmidcdevdom\documents\visual studio 2013\Projects\AngularJSSamples\AngularJSSamples\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\v-satrat.crmidcdevdom\documents\visual studio 2013\Projects\AngularJSSamples\AngularJSSamples\bin\Microsoft.Owin.Security.dll
+c:\users\v-satrat.crmidcdevdom\documents\visual studio 2013\Projects\AngularJSSamples\AngularJSSamples\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\v-satrat.crmidcdevdom\documents\visual studio 2013\Projects\AngularJSSamples\AngularJSSamples\bin\Microsoft.Owin.Security.Google.dll
+c:\users\v-satrat.crmidcdevdom\documents\visual studio 2013\Projects\AngularJSSamples\AngularJSSamples\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\v-satrat.crmidcdevdom\documents\visual studio 2013\Projects\AngularJSSamples\AngularJSSamples\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\v-satrat.crmidcdevdom\documents\visual studio 2013\Projects\AngularJSSamples\AngularJSSamples\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\v-satrat.crmidcdevdom\documents\visual studio 2013\Projects\AngularJSSamples\AngularJSSamples\bin\Microsoft.Web.Infrastructure.dll
+c:\users\v-satrat.crmidcdevdom\documents\visual studio 2013\Projects\AngularJSSamples\AngularJSSamples\bin\Newtonsoft.Json.dll
+c:\users\v-satrat.crmidcdevdom\documents\visual studio 2013\Projects\AngularJSSamples\AngularJSSamples\bin\Owin.dll
+c:\users\v-satrat.crmidcdevdom\documents\visual studio 2013\Projects\AngularJSSamples\AngularJSSamples\bin\System.Web.Helpers.dll
+c:\users\v-satrat.crmidcdevdom\documents\visual studio 2013\Projects\AngularJSSamples\AngularJSSamples\bin\System.Web.Mvc.dll
+c:\users\v-satrat.crmidcdevdom\documents\visual studio 2013\Projects\AngularJSSamples\AngularJSSamples\bin\System.Web.Optimization.dll
+c:\users\v-satrat.crmidcdevdom\documents\visual studio 2013\Projects\AngularJSSamples\AngularJSSamples\bin\System.Web.Razor.dll
+c:\users\v-satrat.crmidcdevdom\documents\visual studio 2013\Projects\AngularJSSamples\AngularJSSamples\bin\System.Web.WebPages.Deployment.dll
+c:\users\v-satrat.crmidcdevdom\documents\visual studio 2013\Projects\AngularJSSamples\AngularJSSamples\bin\System.Web.WebPages.dll
+c:\users\v-satrat.crmidcdevdom\documents\visual studio 2013\Projects\AngularJSSamples\AngularJSSamples\bin\System.Web.WebPages.Razor.dll
+c:\users\v-satrat.crmidcdevdom\documents\visual studio 2013\Projects\AngularJSSamples\AngularJSSamples\bin\WebGrease.dll
+c:\users\v-satrat.crmidcdevdom\documents\visual studio 2013\Projects\AngularJSSamples\AngularJSSamples\bin\System.Web.Helpers.xml
+c:\users\v-satrat.crmidcdevdom\documents\visual studio 2013\Projects\AngularJSSamples\AngularJSSamples\bin\System.Web.Mvc.xml
+c:\users\v-satrat.crmidcdevdom\documents\visual studio 2013\Projects\AngularJSSamples\AngularJSSamples\bin\System.Web.Optimization.xml
+c:\users\v-satrat.crmidcdevdom\documents\visual studio 2013\Projects\AngularJSSamples\AngularJSSamples\bin\System.Web.Razor.xml
+c:\users\v-satrat.crmidcdevdom\documents\visual studio 2013\Projects\AngularJSSamples\AngularJSSamples\bin\System.Web.WebPages.xml
+c:\users\v-satrat.crmidcdevdom\documents\visual studio 2013\Projects\AngularJSSamples\AngularJSSamples\bin\System.Web.WebPages.Deployment.xml
+c:\users\v-satrat.crmidcdevdom\documents\visual studio 2013\Projects\AngularJSSamples\AngularJSSamples\bin\System.Web.WebPages.Razor.xml
+c:\users\v-satrat.crmidcdevdom\documents\visual studio 2013\Projects\AngularJSSamples\AngularJSSamples\bin\Newtonsoft.Json.xml
+c:\users\v-satrat.crmidcdevdom\documents\visual studio 2013\Projects\AngularJSSamples\AngularJSSamples\bin\Antlr3.Runtime.pdb
+c:\users\v-satrat.crmidcdevdom\documents\visual studio 2013\Projects\AngularJSSamples\AngularJSSamples\bin\EntityFramework.xml
+c:\users\v-satrat.crmidcdevdom\documents\visual studio 2013\Projects\AngularJSSamples\AngularJSSamples\bin\EntityFramework.SqlServer.xml
+c:\users\v-satrat.crmidcdevdom\documents\visual studio 2013\Projects\AngularJSSamples\AngularJSSamples\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\v-satrat.crmidcdevdom\documents\visual studio 2013\Projects\AngularJSSamples\AngularJSSamples\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\v-satrat.crmidcdevdom\documents\visual studio 2013\Projects\AngularJSSamples\AngularJSSamples\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\v-satrat.crmidcdevdom\documents\visual studio 2013\Projects\AngularJSSamples\AngularJSSamples\bin\Microsoft.Owin.xml
+c:\users\v-satrat.crmidcdevdom\documents\visual studio 2013\Projects\AngularJSSamples\AngularJSSamples\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\v-satrat.crmidcdevdom\documents\visual studio 2013\Projects\AngularJSSamples\AngularJSSamples\bin\Microsoft.Owin.Security.xml
+c:\users\v-satrat.crmidcdevdom\documents\visual studio 2013\Projects\AngularJSSamples\AngularJSSamples\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\v-satrat.crmidcdevdom\documents\visual studio 2013\Projects\AngularJSSamples\AngularJSSamples\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\v-satrat.crmidcdevdom\documents\visual studio 2013\Projects\AngularJSSamples\AngularJSSamples\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\v-satrat.crmidcdevdom\documents\visual studio 2013\Projects\AngularJSSamples\AngularJSSamples\bin\Microsoft.Owin.Security.Google.xml
+c:\users\v-satrat.crmidcdevdom\documents\visual studio 2013\Projects\AngularJSSamples\AngularJSSamples\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\v-satrat.crmidcdevdom\documents\visual studio 2013\Projects\AngularJSSamples\AngularJSSamples\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\v-satrat.crmidcdevdom\documents\visual studio 2013\Projects\AngularJSSamples\AngularJSSamples\obj\Debug\AngularJSSamples.csprojResolveAssemblyReference.cache
+c:\users\v-satrat.crmidcdevdom\documents\visual studio 2013\Projects\AngularJSSamples\AngularJSSamples\obj\Debug\AngularJSSamples.dll
+c:\users\v-satrat.crmidcdevdom\documents\visual studio 2013\Projects\AngularJSSamples\AngularJSSamples\obj\Debug\AngularJSSamples.pdb
+E:\tutorial\AngularJSSamples\AngularJSSamples\AngularJSSamples\bin\AngularJSSamples.dll.config
+E:\tutorial\AngularJSSamples\AngularJSSamples\AngularJSSamples\bin\AngularJSSamples.dll
+E:\tutorial\AngularJSSamples\AngularJSSamples\AngularJSSamples\bin\AngularJSSamples.pdb
+E:\tutorial\AngularJSSamples\AngularJSSamples\AngularJSSamples\bin\Antlr3.Runtime.dll
+E:\tutorial\AngularJSSamples\AngularJSSamples\AngularJSSamples\bin\EntityFramework.dll
+E:\tutorial\AngularJSSamples\AngularJSSamples\AngularJSSamples\bin\EntityFramework.SqlServer.dll
+E:\tutorial\AngularJSSamples\AngularJSSamples\AngularJSSamples\bin\Microsoft.AspNet.Identity.Core.dll
+E:\tutorial\AngularJSSamples\AngularJSSamples\AngularJSSamples\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\tutorial\AngularJSSamples\AngularJSSamples\AngularJSSamples\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\tutorial\AngularJSSamples\AngularJSSamples\AngularJSSamples\bin\Microsoft.Owin.dll
+E:\tutorial\AngularJSSamples\AngularJSSamples\AngularJSSamples\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\tutorial\AngularJSSamples\AngularJSSamples\AngularJSSamples\bin\Microsoft.Owin.Security.Cookies.dll
+E:\tutorial\AngularJSSamples\AngularJSSamples\AngularJSSamples\bin\Microsoft.Owin.Security.dll
+E:\tutorial\AngularJSSamples\AngularJSSamples\AngularJSSamples\bin\Microsoft.Owin.Security.Facebook.dll
+E:\tutorial\AngularJSSamples\AngularJSSamples\AngularJSSamples\bin\Microsoft.Owin.Security.Google.dll
+E:\tutorial\AngularJSSamples\AngularJSSamples\AngularJSSamples\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\tutorial\AngularJSSamples\AngularJSSamples\AngularJSSamples\bin\Microsoft.Owin.Security.OAuth.dll
+E:\tutorial\AngularJSSamples\AngularJSSamples\AngularJSSamples\bin\Microsoft.Owin.Security.Twitter.dll
+E:\tutorial\AngularJSSamples\AngularJSSamples\AngularJSSamples\bin\Microsoft.Web.Infrastructure.dll
+E:\tutorial\AngularJSSamples\AngularJSSamples\AngularJSSamples\bin\Newtonsoft.Json.dll
+E:\tutorial\AngularJSSamples\AngularJSSamples\AngularJSSamples\bin\Owin.dll
+E:\tutorial\AngularJSSamples\AngularJSSamples\AngularJSSamples\bin\System.Web.Helpers.dll
+E:\tutorial\AngularJSSamples\AngularJSSamples\AngularJSSamples\bin\System.Web.Mvc.dll
+E:\tutorial\AngularJSSamples\AngularJSSamples\AngularJSSamples\bin\System.Web.Optimization.dll
+E:\tutorial\AngularJSSamples\AngularJSSamples\AngularJSSamples\bin\System.Web.Razor.dll
+E:\tutorial\AngularJSSamples\AngularJSSamples\AngularJSSamples\bin\System.Web.WebPages.Deployment.dll
+E:\tutorial\AngularJSSamples\AngularJSSamples\AngularJSSamples\bin\System.Web.WebPages.dll
+E:\tutorial\AngularJSSamples\AngularJSSamples\AngularJSSamples\bin\System.Web.WebPages.Razor.dll
+E:\tutorial\AngularJSSamples\AngularJSSamples\AngularJSSamples\bin\WebGrease.dll
+E:\tutorial\AngularJSSamples\AngularJSSamples\AngularJSSamples\bin\System.Web.Helpers.xml
+E:\tutorial\AngularJSSamples\AngularJSSamples\AngularJSSamples\bin\System.Web.Mvc.xml
+E:\tutorial\AngularJSSamples\AngularJSSamples\AngularJSSamples\bin\System.Web.Optimization.xml
+E:\tutorial\AngularJSSamples\AngularJSSamples\AngularJSSamples\bin\System.Web.Razor.xml
+E:\tutorial\AngularJSSamples\AngularJSSamples\AngularJSSamples\bin\System.Web.WebPages.xml
+E:\tutorial\AngularJSSamples\AngularJSSamples\AngularJSSamples\bin\System.Web.WebPages.Deployment.xml
+E:\tutorial\AngularJSSamples\AngularJSSamples\AngularJSSamples\bin\System.Web.WebPages.Razor.xml
+E:\tutorial\AngularJSSamples\AngularJSSamples\AngularJSSamples\bin\Newtonsoft.Json.xml
+E:\tutorial\AngularJSSamples\AngularJSSamples\AngularJSSamples\bin\Antlr3.Runtime.pdb
+E:\tutorial\AngularJSSamples\AngularJSSamples\AngularJSSamples\bin\EntityFramework.xml
+E:\tutorial\AngularJSSamples\AngularJSSamples\AngularJSSamples\bin\EntityFramework.SqlServer.xml
+E:\tutorial\AngularJSSamples\AngularJSSamples\AngularJSSamples\bin\Microsoft.AspNet.Identity.Core.xml
+E:\tutorial\AngularJSSamples\AngularJSSamples\AngularJSSamples\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\tutorial\AngularJSSamples\AngularJSSamples\AngularJSSamples\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\tutorial\AngularJSSamples\AngularJSSamples\AngularJSSamples\bin\Microsoft.Owin.xml
+E:\tutorial\AngularJSSamples\AngularJSSamples\AngularJSSamples\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\tutorial\AngularJSSamples\AngularJSSamples\AngularJSSamples\bin\Microsoft.Owin.Security.xml
+E:\tutorial\AngularJSSamples\AngularJSSamples\AngularJSSamples\bin\Microsoft.Owin.Security.Facebook.xml
+E:\tutorial\AngularJSSamples\AngularJSSamples\AngularJSSamples\bin\Microsoft.Owin.Security.Cookies.xml
+E:\tutorial\AngularJSSamples\AngularJSSamples\AngularJSSamples\bin\Microsoft.Owin.Security.OAuth.xml
+E:\tutorial\AngularJSSamples\AngularJSSamples\AngularJSSamples\bin\Microsoft.Owin.Security.Google.xml
+E:\tutorial\AngularJSSamples\AngularJSSamples\AngularJSSamples\bin\Microsoft.Owin.Security.Twitter.xml
+E:\tutorial\AngularJSSamples\AngularJSSamples\AngularJSSamples\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\tutorial\AngularJSSamples\AngularJSSamples\AngularJSSamples\obj\Debug\AngularJSSamples.csprojResolveAssemblyReference.cache
+E:\tutorial\AngularJSSamples\AngularJSSamples\AngularJSSamples\obj\Debug\AngularJSSamples.dll
+E:\tutorial\AngularJSSamples\AngularJSSamples\AngularJSSamples\obj\Debug\AngularJSSamples.pdb

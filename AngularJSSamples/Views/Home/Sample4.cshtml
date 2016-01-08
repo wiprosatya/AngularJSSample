@@ -1,0 +1,35 @@
+﻿
+@{
+    ViewBag.Title = "Sample4";
+}
+
+<h2>Sample4 - Binding Controller</h2>
+
+
+<div ng-app="myApp" ng-controller="control">
+    <br /><br />
+    First Name: <input type="text" ng-model="firstName"><br>
+    Last Name: <input type="text" ng-model="lastName"><br>
+    <br><br />
+    <b>Controller Modle result </b><br />
+    Full Name: {{firstName + " " + lastName}}
+
+    <br> <br />
+    <b>Result by Function call</b><br />
+
+    Full Name: {{FullName()}}
+
+</div>
+
+<script>
+    var app = angular.module('myApp', []);
+    app.controller('control', function ($scope) {
+        $scope.firstName = "Satya";
+        $scope.lastName = "Rathore";
+
+        $scope.Result = function()
+        {
+            return $scope.firstName + " " + $scope.lastName;
+        }
+    });
+</script>
